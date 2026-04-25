@@ -15,7 +15,7 @@ The red and white wine datasets are modeled separately. The project compares Log
 - `RamitaRathore_Project_Phase3.ipynb` - Main Jupyter Notebook containing preprocessing, modeling, SMOTE experiments, evaluation, and visualizations.
 - `RamitaRathore_FinalReport.pdf.pdf`- Final project report.
 - `DataMining_Project_README.md` - Instructions for running the project.
-- `RamitaRathore_Project_Demo` - Project demo.
+- `RamitaRathore_Project_Demo` - Project demo, Link: https://youtu.be/lnbEtSB-15k
 
 ## Required Software
 
