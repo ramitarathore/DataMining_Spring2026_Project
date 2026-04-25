@@ -22,7 +22,7 @@ The red and white wine datasets are modeled separately. The project compares Log
 
 The project was developed using Python and Jupyter Notebook.
 
-All the libraries that need to be imported are in the second cell of the notebook. Please install the any missing required libraries using the command '!pip install <library_name>' inside the Jupyter notebook. Example: '!pip install numpy'. A CPU runtime is sufficient to run the notebook.
+All the libraries that need to be imported are in the second cell of the notebook. Please install the any missing required libraries using the command '%pip install <library_name>' inside the Jupyter notebook. Example: '%pip install numpy'. A CPU runtime is sufficient to run the notebook.
 
 ## How to Run the Project
 
