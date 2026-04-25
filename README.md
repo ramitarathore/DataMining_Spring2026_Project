@@ -14,14 +14,15 @@ The red and white wine datasets are modeled separately. The project compares Log
 
 - `RamitaRathore_Project_Phase3.ipynb` - Main Jupyter Notebook containing preprocessing, modeling, SMOTE experiments, evaluation, and visualizations.
 - `RamitaRathore_FinalReport.pdf`- Final project report.
-- `DataMining_Project_README.md` - Instructions for running the project.
-- `RamitaRathore_Project_Demo` - Project demo, Link: https://youtu.be/lnbEtSB-15k
+- `README.md` - Instructions for running the project.
+- `RamitaRathore_Project_Demo` - Project demo, Link: https://youtu.be/lnbEtSB-15k. The file is not included, so the link to the video is provided here.
+- `DataMiningProjectResults_BeforeSMOTE.rtfd.zip` - Contains model performance results before adding SMOTE to the model training pipeline.
 
 ## Required Software
 
 The project was developed using Python and Jupyter Notebook.
 
-All the libraries that need to be imported are in the seconc cell of the notebook provided. Please install the required libraries using command '!pip {library}' inside the jupyter notebook. A CPU runtime is sufficient to run the notebook.
+All the libraries that need to be imported are in the second cell of the notebook. Please install the required libraries using the command '!pip {library}' inside the Jupyter notebook. A CPU runtime is sufficient to run the notebook.
 
 ## How to Run the Project
 
@@ -48,7 +49,7 @@ The notebook produces:
 - PCA heatmaps / feature-loading visualizations
 - Model performance metrics
 - Confusion matrices for red and white wine models
-- Comparisons before and after SMOTE
+- Results after SMOTE
 
 ## Notes
 
